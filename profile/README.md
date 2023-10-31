@@ -1,6 +1,6 @@
-![Lippia Logo](https://assets-global.website-files.com/64a5cfb704f3fdea5e660689/64aee879678441ae85f2cac8_Vectors-Wrapper.svg)
-
 # Welcome to Lippia.io
+
+[created and maintained by Crowdar](https://crowdaronline.com)
 
 Welcome to the Lippia organization on GitHub! Here, you'll discover a thoughtfully curated collection of repositories that exemplify the art of test automation through the powerful Lippia Test Automation Framework. As seasoned industry professionals, we are committed to showcasing how to seamlessly integrate and optimize Lippia in collaboration with leading test automation frameworks.
 
@@ -10,7 +10,8 @@ At the forefront of our automation journey is [Lippia Test Manager](https://lipp
 
 Fueling our expertise is the [Lippia Framework](https://lippia.io/lippia-framework), a pivotal component within the Lippia ecosystem. Its extensive capabilities empower test automation engineers to create, maintain, and execute test scripts across diverse applications and technologies. With support for web, mobile, and API testing, it redefines the boundaries of end-to-end testing.
 
-### Adapters Examples
+### Test Automation Frameworks Adapters 
+With this adapters is easy to ingest results into Lippia Test Manager
 - [Cypress Adapter](https://github.com/Lippia-io/LTM-adapter-cypress)
   - Observe the harmonious integration of Lippia Test Manager with the renowned Cypress test framework.
 - [Cucumber 4 Adapter](https://github.com/Lippia-io/LTM-adapter-cucumber4-JVM)
@@ -23,6 +24,8 @@ Fueling our expertise is the [Lippia Framework](https://lippia.io/lippia-framewo
   - Explore the seamless synergy between Lippia Test Manager and Microsoft's Playwright for web automation.
 - [Serenity Adapters](https://github.com/Lippia-io/LTM-adapter-Serenity-JVM)
   - Delve into the integration of Lippia Test Manager and Serenity for comprehensive test reporting marked by precision.
+
+In case you don't find the adapter you need you can directly ingest results using Lippia Test Manager API, you can see the [API documentation](https://docs.lippia.io/#API).
 
 ### Lippia Core
 - [Lippia Core](https://github.com/Crowdar/lippia-core)
