@@ -10,27 +10,40 @@ At the forefront of our automation journey is [Lippia Test Manager](https://lipp
 
 Fueling our expertise is the [Lippia Framework](https://lippia.io/lippia-framework), a pivotal component within the Lippia ecosystem. Its extensive capabilities empower test automation engineers to create, maintain, and execute test scripts across diverse applications and technologies. With support for web, mobile, and API testing, it redefines the boundaries of end-to-end testing.
 
-## Repository Overview
-
-### Integration Examples
-- [Cypress Integration](https://github.com/Lippia-io/Lippia-Cypress-Integration)
+### Adapters Examples
+- [Cypress Adapter](https://github.com/Lippia-io/LTM-adapter-cypress)
   - Observe the harmonious integration of Lippia Test Manager with the renowned Cypress test framework.
-- [Cucumber Integration](https://github.com/Lippia-io/Lippia-Cucumber-Integration)
-  - Uncover the finesse of combining Lippia Test Manager with the Cucumber framework to orchestrate BDD-style tests.
-- [Karate Integration](https://github.com/Lippia-io/Lippia-Karate-Integration)
+- [Cucumber 4 Adapter](https://github.com/Lippia-io/LTM-adapter-cucumber4-JVM)
+  - Uncover the finesse of combining Lippia Test Manager with the Cucumber 4 framework to orchestrate BDD-style tests.
+- [Cucumber 7 Adapter](https://github.com/Lippia-io/LTM-adapter-cucumber7-JVM)
+  - Delve into the integration of Lippia Test Manager with the Cucumber 7 framework for effective BDD-style tests.
+- [Karate Adapter](https://github.com/Lippia-io/LTM-adapter-karate-JVM)
   - Witness the magic of blending Lippia Test Manager with Karate for exceptional API testing.
-- [Playwright Integration](https://github.com/Lippia-io/Lippia-Playwright-Integration)
+- [Playwright Adapter](https://github.com/Lippia-io/LTM-adapter-Playwright-JS)
   - Explore the seamless synergy between Lippia Test Manager and Microsoft's Playwright for web automation.
-- [Serenity Integration](https://github.com/Lippia-io/Lippia-Serenity-Integration)
+- [Serenity Adapters](https://github.com/Lippia-io/LTM-adapter-Serenity-JVM)
   - Delve into the integration of Lippia Test Manager and Serenity for comprehensive test reporting marked by precision.
 
-### Sample Projects
-- [Lippia Framework Example](https://github.com/Lippia-io/Lippia)
-  - Immerse yourself in the intricacies of the Lippia Framework with this repository, demonstrating how to harness its capabilities for web, mobile, and API testing.
+### Lippia Core
+- [Lippia Core](https://github.com/Crowdar/lippia-core)
+  - Explore the core components of Lippia, a pivotal repository that forms the foundation of the Lippia Framework ecosystem, when you need to start from the scratch in Automation.
+
+### Lippia Framework Samples
+- [Lippia Web Sample Project](https://github.com/Lippia-io/lippia-web-sample-project)
+  - Explore this sample project to see how Lippia Framework can be used for web application testing.
+- [Lippia API Sample Project](https://github.com/Lippia-io/lippia-API-sample-project)
+  - Delve into this sample project to understand how Lippia Framework excels in API testing.
+- [Lippia Mobile Sample Project](https://github.com/Lippia-io/lippia-mobile-sample-project)
+  - Discover the capabilities of Lippia Framework in mobile app testing through this sample project.
+- [Lippia Mixed Web Mobile Sample Project](https://github.com/Lippia-io/lippia-mixed-web-mobile-sample-project)
+  - This project showcases the versatility of Lippia Framework by combining web and mobile testing.
+- [Lippia Low Code Sample Project](https://github.com/Lippia-io/lippia-low-code-sample-project)
+  - Learn how to harness the power of Lippia Framework in low-code test automation.
+
 
 ## CI/CD Integration
 
-### Seamless CI/CD Integration with Lippia Framework
+Seamless CI/CD Integration with Lippia Framework:
 
 Lippia Framework seamlessly integrates with leading CI/CD tools to streamline your test automation workflow. Whether you're using Gitlab, Github, Azure DevOps, Bitbucket, Jenkins, or FlowCI, Lippia has you covered. Below are examples of CI/CD integrations using Lippia Framework:
 
