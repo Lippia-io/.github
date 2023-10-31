@@ -5,10 +5,11 @@
 Welcome to the Lippia organization on GitHub! Here, you'll discover a thoughtfully curated collection of repositories that exemplify the art of test automation through the powerful Lippia Test Automation Framework. As seasoned industry professionals, we are committed to showcasing how to seamlessly integrate and optimize Lippia in collaboration with leading test automation frameworks.
 
 ## About Lippia Test Manager and Lippia Framework
-
+<img src="https://github.com/Lippia-io/.github/blob/main/LippiaTestManager.gif" alt="Texto alternativo" width="750" height="450">
 At the forefront of our automation journey is [Lippia Test Manager](https://lippia.io), a comprehensive Test Management solution. It seamlessly combines native Gherkin Scenario writing directly within your preferred code repository, eliminating any lock-in. With Lippia Test Manager, you can manage both Automated and Manual test runs while effortlessly integrating results into a single cohesive solution.
 
 Fueling our expertise is the [Lippia Framework](https://lippia.io/lippia-framework), a pivotal component within the Lippia ecosystem. Its extensive capabilities empower test automation engineers to create, maintain, and execute test scripts across diverse applications and technologies. With support for web, mobile, and API testing, it redefines the boundaries of end-to-end testing.
+
 
 ### Test Automation Frameworks Adapters 
 With this adapters is easy to ingest results into Lippia Test Manager
