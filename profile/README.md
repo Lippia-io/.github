@@ -8,8 +8,13 @@ At the forefront of our automation journey is [Lippia Test Manager](https://lipp
 
 Fueling our expertise is the [Lippia Framework](https://lippia.io/lippia-framework), a pivotal component within the Lippia ecosystem. Its extensive capabilities empower test automation engineers to create, maintain, and execute test scripts across diverse applications and technologies. With support for web, mobile, and API testing, it redefines the boundaries of end-to-end testing.
 
+## Getting Started
 
-### Test Automation Frameworks Adapters 
+If you're poised to embark on your Lippia journey, we recommend starting with our sample projects and integration examples. Each repository's README provides detailed documentation and step-by-step instructions to expedite your mastery of Lippia's capabilities.
+Additionaly, you can check [Lippia Youtube Channel](https://www.youtube.com/@lippia-io)
+
+## Test Automation Frameworks Adapters 
+
 With this adapters is easy to ingest results into Lippia Test Manager
 - [Cucumber 4 Adapter](https://github.com/Lippia-io/LTM-adapter-cucumber4-JVM)
   - Uncover the finesse of combining Lippia Test Manager with the Cucumber 4 framework to orchestrate BDD-style tests.
@@ -57,10 +62,6 @@ Lippia Framework seamlessly integrates with leading CI/CD tools to streamline yo
 - [Lippia CI Integration for FlowCI](https://github.com/Lippia-io/lippia-ci-integration-flowci)
 
 Integrate Lippia Framework seamlessly into your CI/CD pipelines to supercharge your test automation.
-
-## Getting Started
-
-If you're poised to embark on your Lippia journey, we recommend starting with our sample projects and integration examples. Each repository's README provides detailed documentation and step-by-step instructions to expedite your mastery of Lippia's capabilities.
 
 ## Documentation
 
