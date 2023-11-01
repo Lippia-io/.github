@@ -1,11 +1,9 @@
 # Welcome to Lippia.io
 
-[created and maintained by Crowdar](https://crowdaronline.com)
-
 Welcome to the Lippia organization on GitHub! Here, you'll discover a thoughtfully curated collection of repositories that exemplify the art of test automation through the powerful Lippia Test Automation Framework. As seasoned industry professionals, we are committed to showcasing how to seamlessly integrate and optimize Lippia in collaboration with leading test automation frameworks.
 
 ## About Lippia Test Manager and Lippia Framework
-<img src="https://github.com/Lippia-io/.github/blob/main/LippiaTestManager.gif" alt="Texto alternativo" width="750" height="450">
+<img src="https://github.com/Lippia-io/.github/blob/main/LippiaTestManager.gif" alt="Texto alternativo" width="750" height="450"></img>
 At the forefront of our automation journey is [Lippia Test Manager](https://lippia.io), a comprehensive Test Management solution. It seamlessly combines native Gherkin Scenario writing directly within your preferred code repository, eliminating any lock-in. With Lippia Test Manager, you can manage both Automated and Manual test runs while effortlessly integrating results into a single cohesive solution.
 
 Fueling our expertise is the [Lippia Framework](https://lippia.io/lippia-framework), a pivotal component within the Lippia ecosystem. Its extensive capabilities empower test automation engineers to create, maintain, and execute test scripts across diverse applications and technologies. With support for web, mobile, and API testing, it redefines the boundaries of end-to-end testing.
@@ -13,18 +11,18 @@ Fueling our expertise is the [Lippia Framework](https://lippia.io/lippia-framewo
 
 ### Test Automation Frameworks Adapters 
 With this adapters is easy to ingest results into Lippia Test Manager
-- [Cypress Adapter](https://github.com/Lippia-io/LTM-adapter-cypress)
-  - Observe the harmonious integration of Lippia Test Manager with the renowned Cypress test framework.
 - [Cucumber 4 Adapter](https://github.com/Lippia-io/LTM-adapter-cucumber4-JVM)
   - Uncover the finesse of combining Lippia Test Manager with the Cucumber 4 framework to orchestrate BDD-style tests.
 - [Cucumber 7 Adapter](https://github.com/Lippia-io/LTM-adapter-cucumber7-JVM)
   - Delve into the integration of Lippia Test Manager with the Cucumber 7 framework for effective BDD-style tests.
-- [Karate Adapter](https://github.com/Lippia-io/LTM-adapter-karate-JVM)
+- [Karate Adapter](https://github.com/Lippia-io/LTM-adapter-karate-JVM) 🚧
   - Witness the magic of blending Lippia Test Manager with Karate for exceptional API testing.
-- [Playwright Adapter](https://github.com/Lippia-io/LTM-adapter-Playwright-JS)
+- [Playwright Adapter](https://github.com/Lippia-io/LTM-adapter-Playwright-JS) 🚧
   - Explore the seamless synergy between Lippia Test Manager and Microsoft's Playwright for web automation.
-- [Serenity Adapters](https://github.com/Lippia-io/LTM-adapter-Serenity-JVM)
+- [Serenity Adapters](https://github.com/Lippia-io/LTM-adapter-Serenity-JVM) 🚧
   - Delve into the integration of Lippia Test Manager and Serenity for comprehensive test reporting marked by precision.
+- [Cypress Adapter] (https://github.com/Lippia-io/LTM-adapter-Cypress-JS) 🚧
+  - Observe the harmonious integration of Lippia Test Manager with the renowned Cypress test framework.
 
 In case you don't find the adapter you need you can directly ingest results using Lippia Test Manager API, you can see the [API documentation](https://docs.lippia.io/#API).
 
@@ -36,7 +34,7 @@ In case you don't find the adapter you need you can directly ingest results usin
 - [Lippia Web Sample Project](https://github.com/Lippia-io/lippia-web-sample-project)
   - Explore this sample project to see how Lippia Framework can be used for web application testing.
 - [Lippia API Sample Project](https://github.com/Lippia-io/lippia-API-sample-project)
-  - Delve into this sample project to understand how Lippia Framework excels in API testing.
+  - Discover this sample project to understand how Lippia Framework excels in API testing.
 - [Lippia Mobile Sample Project](https://github.com/Lippia-io/lippia-mobile-sample-project)
   - Discover the capabilities of Lippia Framework in mobile app testing through this sample project.
 - [Lippia Mixed Web Mobile Sample Project](https://github.com/Lippia-io/lippia-mixed-web-mobile-sample-project)
@@ -75,3 +73,5 @@ Our thriving community of test automation experts is ever-ready to assist. Wheth
 Explore our repositories, immerse yourself in the Lippia experience, and elevate your test automation endeavors to new heights.
 
 Happy testing!
+
+[created and maintained by Crowdar](https://crowdaronline.com)
