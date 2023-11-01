@@ -4,13 +4,15 @@ Welcome to the Lippia organization on GitHub! Here, you'll discover a thoughtful
 
 ## About Lippia Test Manager and Lippia Framework
 <img src="https://github.com/Lippia-io/.github/blob/main/LippiaTestManager.gif" alt="Texto alternativo" width="750" height="450"></img>
+
 At the forefront of our automation journey is [Lippia Test Manager](https://lippia.io), a comprehensive Test Management solution. It seamlessly combines native Gherkin Scenario writing directly within your preferred code repository, eliminating any lock-in. With Lippia Test Manager, you can manage both Automated and Manual test runs while effortlessly integrating results into a single cohesive solution.
 
 Fueling our expertise is the [Lippia Framework](https://lippia.io/lippia-framework), a pivotal component within the Lippia ecosystem. Its extensive capabilities empower test automation engineers to create, maintain, and execute test scripts across diverse applications and technologies. With support for web, mobile, and API testing, it redefines the boundaries of end-to-end testing.
 
 ## Getting Started
 
-If you're poised to embark on your Lippia journey, we recommend starting with our sample projects and integration examples. Each repository's README provides detailed documentation and step-by-step instructions to expedite your mastery of Lippia's capabilities.
+If you're poised to embark on your Lippia journey, we recommend starting with our sample projects and integration examples. Each repository's README provides detailed documentation and step-by-step instructions to expedite your mastery of Lippia's capabilities. 
+For an in-depth exploration of the Lippia Framework and Lippia Test Manager, visit our [official documentation](https://docs.lippia.io). It serves as a treasure trove of knowledge and insights, guiding you on your automation voyages.
 Additionaly, you can check [Lippia Youtube Channel](https://www.youtube.com/@lippia-io)
 
 ## Test Automation Frameworks Adapters 
@@ -62,10 +64,6 @@ Lippia Framework seamlessly integrates with leading CI/CD tools to streamline yo
 - [Lippia CI Integration for FlowCI](https://github.com/Lippia-io/lippia-ci-integration-flowci)
 
 Integrate Lippia Framework seamlessly into your CI/CD pipelines to supercharge your test automation.
-
-## Documentation
-
-For an in-depth exploration of the Lippia Framework and Lippia Test Manager, visit our [official documentation](https://docs.lippia.io). It serves as a treasure trove of knowledge and insights, guiding you on your automation voyages.
 
 ## Join the Lippia Community
 
