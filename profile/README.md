@@ -21,7 +21,7 @@ With this adapters is easy to ingest results into Lippia Test Manager
   - Explore the seamless synergy between Lippia Test Manager and Microsoft's Playwright for web automation.
 - [Serenity Adapters](https://github.com/Lippia-io/LTM-adapter-Serenity-JVM) 🚧
   - Delve into the integration of Lippia Test Manager and Serenity for comprehensive test reporting marked by precision.
-- [Cypress Adapter] (https://github.com/Lippia-io/LTM-adapter-Cypress-JS) 🚧
+- [Cypress Adapter](https://github.com/Lippia-io/LTM-adapter-Cypress-JS) 🚧
   - Observe the harmonious integration of Lippia Test Manager with the renowned Cypress test framework.
 
 In case you don't find the adapter you need you can directly ingest results using Lippia Test Manager API, you can see the [API documentation](https://docs.lippia.io/#API).
